@@ -36,7 +36,7 @@ education:
     - course: BSc in Statistics (Expected)
       institution: Peking University
       year: 2023
-superuser: true
+superuser: false
 status:
   icon: ☕️
 last_name: Wu
