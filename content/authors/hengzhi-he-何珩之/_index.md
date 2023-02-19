@@ -1,6 +1,6 @@
 ---
 title: Hengzhi He 何珩之
-role: Professor of Artificial Intelligence
+role: ""
 bio: ""
 interests:
   - Mechanism Design
